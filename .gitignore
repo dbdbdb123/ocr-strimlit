@@ -11,3 +11,4 @@ wheels/
 *.jpg
 # Virtual environments
 .venv
+*.gz
